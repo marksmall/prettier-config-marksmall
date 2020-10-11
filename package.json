@@ -1,0 +1,9 @@
+{
+  "name": "prettier-config-marksmall",
+  "version": "1.0.0",
+  "description": "Re-usable Prettier config project",
+  "main": "index.json",
+  "repository": "https://github.com/marksmall/pretier-config-marksmall",
+  "author": "Mark Small <small_mark@hotmail.com>",
+  "license": "MIT"
+}
